@@ -7,7 +7,7 @@ This repository provides basic testing tools for APItalist.
 You can import this library by typing:
 
 ```
-go get github.com/apitalist/test/v1
+go get github.com/apitalist/test
 ```
 
 ## Documentation
